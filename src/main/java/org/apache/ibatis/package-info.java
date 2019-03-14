@@ -31,7 +31,7 @@ package org.apache.ibatis;
         配置解析 参数映射  SQL解析
         builder         scripting
         mapping
-        接口层:
+        接口层
         SqlSession
 */
 
